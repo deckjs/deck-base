@@ -1,6 +1,6 @@
 {
   "name": "@deck/base",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "_bin": {
     "present-base-deck": "./node_modules/.bin/present"
   },
