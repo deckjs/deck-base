@@ -5,8 +5,12 @@
     "present-base-deck": "./node_modules/.bin/present"
   },
   "scripts": {
-    "start": "present"
+    "start": "present",
+    "standard": "standard --format"
   },
+  "pre-commit":[
+    "standard"
+  ],
   "files": [
     "deck.md",
     "index.js",
@@ -22,5 +26,9 @@
   "license": "",
   "_dependencies": {
     "@deck/present": "^1.0.0"
+  },
+  "devDependencies": {
+    "pre-commit": "1.1.1",
+    "standard": "5.3.1"
   }
 }
