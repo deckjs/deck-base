@@ -13,9 +13,7 @@
   ],
   "files": [
     "deck.md",
-    "index.js",
-    ".npmrc",
-    "gen.js"
+    "index.js"
   ],
   "_files": [
     "deck.md",
