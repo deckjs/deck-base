@@ -23,7 +23,7 @@
   "author": "David Mark Clements",
   "license": "",
   "_dependencies": {
-    "@deck/present": "^1.0.0"
+    "@deck/present": "^1.0.1"
   },
   "devDependencies": {
     "pre-commit": "1.1.1",
