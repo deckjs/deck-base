@@ -6,10 +6,10 @@
   },
   "scripts": {
     "start": "present",
-    "standard": "standard --format"
+    "format": "standard --format"
   },
   "pre-commit":[
-    "standard"
+    "format"
   ],
   "files": [
     "deck.md",
