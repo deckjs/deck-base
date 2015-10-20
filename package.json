@@ -1,9 +1,6 @@
 {
   "name": "@deck/base",
   "version": "1.0.1",
-  "_bin": {
-    "present-base-deck": "./node_modules/.bin/present"
-  },
   "scripts": {
     "start": "present",
     "format": "standard --format"
@@ -15,16 +12,8 @@
     "deck.md",
     "index.js"
   ],
-  "_files": [
-    "deck.md",
-    "images",
-    "source"
-  ],
   "author": "David Mark Clements",
   "license": "",
-  "_dependencies": {
-    "@deck/present": "^1.0.1"
-  },
   "devDependencies": {
     "pre-commit": "1.1.1",
     "standard": "5.3.1"

@@ -1,0 +1,13 @@
+{
+  "_bin": {
+    "present-base-deck": "./node_modules/.bin/present"
+  },
+  "_files": [
+    "deck.md",
+    "images",
+    "code"
+  ],
+  "_dependencies": {
+    "@deck/present": "^1.0.1"
+  }
+}
