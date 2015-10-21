@@ -1,6 +1,6 @@
 {
   "name": "@deck/base",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "scripts": {
     "start": "present",
     "format": "standard --format"
@@ -10,7 +10,8 @@
   ],
   "files": [
     "deck.md",
-    "index.js"
+    "index.js",
+    "package-template.json"
   ],
   "author": "David Mark Clements",
   "license": "",
