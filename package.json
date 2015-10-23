@@ -1,12 +1,12 @@
 {
   "name": "@deck/base",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "scripts": {
-    "start": "present",
-    "format": "standard"
+    "lint": "standard",
+    "format": "standard --lint"
   },
   "pre-commit":[
-    "format"
+    "lint"
   ],
   "files": [
     "deck.md",
