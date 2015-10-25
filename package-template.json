@@ -8,6 +8,6 @@
     "code"
   ],
   "_dependencies": {
-    "@deck/present": "^1.0.1"
+    "@deck/present": "^1.1.0"
   }
 }
