@@ -131,7 +131,7 @@ master: image
 
 # image slide
 
-![](images/test.png)
+![](images/placeholder.png)
 
 ---
 <!--
@@ -141,7 +141,7 @@ master: image-caption
 # image with caption
 
 <figure>
-  ![](images/test.png)
+  ![](images/placeholder.png)
   <figcaption>
     image caption
   </figcaption>
@@ -154,7 +154,7 @@ master: image-bullets
 
 # image with bullets
 
-![](images/test.png)
+![](images/placeholder.png)
 
 * Body Level One
   * Body Level Two
@@ -261,7 +261,7 @@ console.log('small amount of code');
 master: code-snippet-bullets-command
 -->
 
-# code snippet and bullets
+# snippet, bullets, command
 
 ```javascript
 console.log('small amount of code');

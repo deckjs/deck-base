@@ -12,6 +12,8 @@
   "files": [
     "deck.md",
     "index.js",
+    "images",
+    "code",
     "package-template.json"
   ],
   "author": "David Mark Clements",

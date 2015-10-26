@@ -1,13 +1,13 @@
 {
-  "_bin": {
-    "present-base-deck": "./node_modules/.bin/present"
-  },
-  "_files": [
+  "version": "1.0.0",
+  "skin": "@deck/skin-light",
+  "files": [
+    "Readme.md",
     "deck.md",
     "images",
     "code"
   ],
-  "_dependencies": {
+  "dependencies": {
     "@deck/present": "^1.1.0"
   }
 }
