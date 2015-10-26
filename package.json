@@ -7,7 +7,7 @@
     "format": "standard --format"
   },
   "pre-commit": [
-    "format"
+    "lint"
   ],
   "files": [
     "deck.md",
