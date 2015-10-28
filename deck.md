@@ -2,11 +2,8 @@
 master: title-page
 -->
 
-# Module Title
-## Course Title
-### N Sessions
-
-<small>&copy;&thinsp;nearForm</small>
+# Title
+## Subtitle
 
 ---
 <!--
